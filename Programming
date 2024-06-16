@@ -1,4 +1,3 @@
-# Logs
 logs
 *.log
 npm-debug.log*
@@ -96,6 +95,4 @@ packages/protocol/config.js
 
 # Vercel configuration
 .vercel
-
-# Husky
 .husky
