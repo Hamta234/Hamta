@@ -89,7 +89,7 @@ dist
 
 # Python cache
 pycache/
-
+.cache/
 # VSCode files
 .vscode/launch.json
 packages/protocol/config.js
