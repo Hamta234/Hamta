@@ -98,4 +98,4 @@ packages/protocol/config.js
 .vercel
 .husky
 
-# test
+# FuseBox cache
