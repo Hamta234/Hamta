@@ -25,7 +25,6 @@ coverage
 .nyc_output
 
 # Grunt intermediate storage
-.grunt
 
 # Bower dependency directory
 bower_components
