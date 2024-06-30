@@ -18,6 +18,9 @@ pids
 # Instrumented libraries
 lib-cov
 
+#lib-cov
+
+
 # Coverage directories
 coverage
 *.lcov
