@@ -19,7 +19,7 @@ pids
 lib-cov
 
 #lib-cov
-
+# Power off
 
 # Coverage directories
 coverage
