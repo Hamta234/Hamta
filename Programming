@@ -4,8 +4,10 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+
 #Diagnostic reports
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
 
 #Runtime data
 pids
@@ -13,10 +15,10 @@ pids
 *.seed
 *.pid.lock
 
-#reset code
 
-# Instrumented libraries
+#Instrumented libraries
 lib-cov
+
 
 #lib-cov
 # Power off
@@ -25,15 +27,19 @@ lib-cov
 coverage
 *.lcov
 
-# Grunt intermediate storage
 
-# Bower dependency directory
+#Grunt intermediate storage
+
+
+#Bower dependency directory
 bower_components
 
-# Node configuration
+
+#Node configuration
 .lock-wscript
 
-# Compiled binary addons
+
+#Compiled binary addons
 build/Release
 #Tst
 # Dependency directories
