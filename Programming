@@ -102,5 +102,5 @@ packages/protocol/config.js
 # Vercel configuration
 .vercel
 .husky
-
+.cache/
 # FuseBox cache
