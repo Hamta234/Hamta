@@ -104,3 +104,8 @@ packages/protocol/config.js
 .husky
 .cache/
 # FuseBox cache
+
+
+
+#Bower dependency directory
+bower_components
