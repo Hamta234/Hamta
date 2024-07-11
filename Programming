@@ -49,7 +49,7 @@ jspm_packages/
 typings/
 *.tsbuildinfo
 
-# Optional directories and files
+#Optional directories and files
 .npm
 .eslintcache
 .rpt2_cache/
