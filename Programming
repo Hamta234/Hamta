@@ -22,7 +22,7 @@ lib-cov
 #lib-cov
 # Power off
 
-# Coverage directories
+#Coverage directories
 coverage
 *.lcov
 
