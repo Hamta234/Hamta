@@ -113,3 +113,5 @@ lerna-debug.log*
 
 #Bower dependency directory
 bower_components
+#VuePress build output
+.vuepress/dist
