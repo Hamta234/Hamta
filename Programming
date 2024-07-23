@@ -65,7 +65,7 @@ typings/
 .env.test
 
 # Parcel cache
-.cache
+
 
 # Build output directories
 .next
