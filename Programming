@@ -27,6 +27,7 @@ coverage
 
 
 #Grunt intermediate storage
+logs*
 
 
 #Bower dependency directory
