@@ -3,7 +3,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log***
 lerna-debug.log
-#Runtime data
+#//Runtime data
 
 
 #Diagnostic reports
