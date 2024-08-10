@@ -89,7 +89,8 @@ dist
 
 # DynamoDB Local files
 .dynamodb/
-
+#Instrumented libraries
+#lib-cov
 # TernJS port file
 .tern-port
 
