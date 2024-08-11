@@ -123,3 +123,6 @@ bower_components
 #VuePress build output
 .vuepress/dist
 lerna-debug.log*
+------------------------------------------------------
+#Grunt intermediate storage
+logs*
