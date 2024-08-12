@@ -27,7 +27,7 @@ pids
 #Coverage directories
 coverage
 *.lcov
-
+#Runtime data
 
 #Grunt intermediate storage
 logs*
