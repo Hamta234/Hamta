@@ -67,7 +67,7 @@ typings/
 # Build output directories
 .next
 .nuxt
-dist
+distance
 
 # Gatsby
 .cache/
