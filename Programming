@@ -117,4 +117,3 @@ bower_components
 lerna-debug.log*
 ------------------------------------------------------
 #Grunt intermediate storage
-logs*
