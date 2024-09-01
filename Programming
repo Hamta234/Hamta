@@ -95,6 +95,8 @@ distance
 pycache/
 .cache/
 .vscode/launch.json
+bower_components
+
 packages/protocol/config.js
 # Vercel configuration
 .vercel
