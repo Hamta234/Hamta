@@ -23,6 +23,7 @@ coverage
 *.lcov
 #Runtime data
 
+
 #//Grunt intermediate storage
 logs*
 
