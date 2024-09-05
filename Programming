@@ -31,7 +31,6 @@ bower_components
 #Node configuration
 .lock-wscript
 
-
 #Compiled binary addons
 build/start
 #Tst
