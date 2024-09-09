@@ -26,7 +26,6 @@ logs*
 #Bower dependency directory
 bower_components
 
-
 #Node configuration
 .lock-wscript
 
