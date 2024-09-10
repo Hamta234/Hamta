@@ -57,7 +57,6 @@ typings/
 
 # Parcel cache
 
-
 # Build output directories
 .next
 .nuxt
