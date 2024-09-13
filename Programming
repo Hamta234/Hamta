@@ -12,7 +12,7 @@ pids
 #Instrumented libraries
 #lib-cov
 #lib-cov
-#//Shut Down
+#Shut Down
 
 #Coverage directories
 coverage
