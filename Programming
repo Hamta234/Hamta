@@ -21,6 +21,7 @@ coverage
 
 #//Grunt intermediate storage
 logs*
+./
 
 #Bower dependency directory
 bower_components
